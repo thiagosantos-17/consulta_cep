@@ -32,7 +32,7 @@ Conforme a implementação, o projeto organiza-se da seguinte forma:
 ## 🔗 Link de Acesso
 
 O projeto está hospedado e pode ser acessado em:  
-🚀 **[https://atividade2-http-request.vercel.app/](https://atividade2-http-request.vercel.app/)**
+🚀 **[https://consulta-cep-dsm.vercel.app/](https://consulta-cep-dsm.vercel.app/)**
 
 ---
 *Projeto desenvolvido para fins acadêmicos - Fatec / Centro Paula Souza.*

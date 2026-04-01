@@ -5,13 +5,13 @@
     box-sizing: border-box;
 }
 
-body{
+body {
     font-family: 'Roboto', sans-serif;
-    background-color: #f4f4f4;
+    background-color: #F5F5DC; 
     display: flex;
     margin: 0;
     height: 100vh;
-    align-items: self-start;
+    align-items: center; 
     justify-content: center;
     padding: 1rem;
 }
